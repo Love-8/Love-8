@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (ezemenariifunanya7@gmail.com)
+- 📫 How to reach me [ezemenariifunanya7@gmail.com]
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love mathematics 😁
 
